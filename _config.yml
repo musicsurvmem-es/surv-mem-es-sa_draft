@@ -18,16 +18,16 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Archivo de Canciones El Salvador
+title: Archivo digital de música
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Colección de canciones revolucionarias de la Guerra Civil
+tagline: Memoria Histórica Sobreviviente en El Salvador
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Para conservar de forma permanente grabaciones históricas y recientes."
+description: "Este archivo en línea de canciones de la Guerra Civil en El Salvador (1980-1992) conserva de forma permanente grabaciones recientes e históricas de canciones relacionadas con el conflicto armado."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: chalatenango; El Salvador; música
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Memoria Histórica Sobreviviente
 
 ##########
 # COLLECTION SETTINGS
