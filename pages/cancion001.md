@@ -10,7 +10,7 @@ a derrotar una cruel tiranía,\\
 que a nuestro pueblo ha venido a masacrar.
  
 Arnulfo Romero, hijo valiente,\\
-de nuestra patria querida, El Salvador\\,
+de nuestra patria querida, El Salvador,\\
 por defender los derechos humanos,\\
 con heroísmo su vida entregó.
  
