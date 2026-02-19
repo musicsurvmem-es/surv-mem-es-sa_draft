@@ -3,6 +3,10 @@ title: Adelante adelante adelante
 layout: about
 permalink: /adelante.html
 ---
+{% include feature/video.html objectid="demo_004" width="75" %}
+
+{% include feature/image.html objectid="demo_001" width="75" caption="an image" %}
+
 ## Adelante compañeros combatientes
 América Central está en marcha,\\
 con sus hijos unidos y a luchar,\\
