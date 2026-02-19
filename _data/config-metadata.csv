@@ -12,4 +12,5 @@ identifier,nombre del archivo,,,,
 type,tipo,,,DCTERMS.type,
 format,formato,,,,encodingFormat
 language,idioma,,,DCTERMS.language,
+lyrics,letra,,,,
 rightsstatement,,,,DCTERMS.rights,license
