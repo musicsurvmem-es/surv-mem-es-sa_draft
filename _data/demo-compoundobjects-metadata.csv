@@ -1,51 +1,8 @@
 objectid,parentid,title,creator,date,date-is-approximate?,description,subject,location,latitude,longitude,source,identifier,type,format,language,lyrics,rights,rightsstatement,display_template,object_location,image_small,image_thumb,image_alt_text,object_transcript
 ,,título,creador,fecha,,descripción,temas,lugar,,,identificación numérica de la obra,nombre del archivo,medio de ejecución,,,letra,,,,,,,,
 ,,,"intérpretes, música, letra ",,,,,"dónde se grabó, lugares mencionados",,,,,,,,,,,,,,,,
-demo_001,,Adelante compañeros combatientes,autor desconocido,desconocida,yes,"Canción en YouTube. Grabación de campo realizada en el campamento de refugiados de Mesa Grande (1982-1987), Honduras, en los años 80, durante la Guerra civil en El Salvador.",Guerra Civil,"Mesa Grande, Honduras",14.47102,-88.8567,SAEL001,001_GHMG_adelante_compañeros,"Grabación de campo de música folclórica, en la que varias voces están acompañadas por un violín y guitarras; no se especifican otros instrumentos o voces en el recurso.",audio/mp3,esp,"América Central está en marcha,
-con sus hijos unidos y a luchar,
-a derrotar una cruel tiranía,
-que a nuestro pueblo ha venido a masacrar.
-
-Arnulfo Romero, hijo valiente,
-de nuestra patria querida, El Salvador,
-por defender los derechos humanos,
-con heroísmo su vida entregó.
-
-Humilde [inaudible 1:15],
-que a todo el mundo le diste a conocer,
-que El Salvador era muy castigado,
-con ese yugo tirano y opresor.
-
-Tu palabra, una luz en mi camino,
-y a los humildes supiste despertar.
-Alcen su voz que todos somos hermanos,
-nuestros derechos debemos conquistar.
-
-Esa mano, traidora y asesina,
-que con su crimen, su voz hizo callar,
-pero el odio no vence a la injusticia,
-y nunca te vamos a olvidar.
-
-Tu pueblo no quería la violencia,
-pero obligados tuvimos que aceptar,
-[inaudible 2:44] la conciencia,
-y las palabras no quisieron escuchar.
-
-Adelante compañeros combatientes,
-la dictadura se empieza a derrumbar,
-al no poder detener nuestra lucha,
-ni con aviones, ni bombas de matar.
-
-Adelante compañeros combatientes,
-la dictadura se empieza a derrumbar,
-al no poder detener nuestra lucha,
-ni con aviones, ni bombas de matar.
-
-América Central está en marcha,
-con sus hijos unidos a luchar,
-a derrotar una cruel tiranía,
-que a nuestro pueblo ha venido a masacrar.",Recurso para uso educativo,Canción creada colectivamente y en dominio público. Por favor contactar al archivo si esta canción infringe derechos de autor.,video,https://youtu.be/eanK1OT5cq4,https://img.youtube.com/vi/eanK1OT5cq4/hqdefault.jpg,https://img.youtube.com/vi/eanK1OT5cq4/mqdefault.jpg,grainy image from historic film depicting fans heading to football game,
-demo_002,,Adelante compañeros combatientes,,,,Letra,,,,,,,lyrics,pdf,esp,,,,pdf,/objects/letras/demo_002.pdf,,,,
+demo_001,,Adelante compañeros combatientes,autor desconocido,desconocida,yes,"Canción en YouTube. Grabación de campo realizada en el campamento de refugiados de Mesa Grande (1982-1987), Honduras, en los años 80, durante la Guerra civil en El Salvador.",Guerra Civil,"Mesa Grande, Honduras",14.47102,-88.8567,SAEL001,001_GHMG_adelante_compañeros,"Grabación de campo de música folclórica, en la que varias voces están acompañadas por un violín y guitarras; no se especifican otros instrumentos o voces en el recurso.",audio/mp3,esp,"América Central está en marcha, / con sus hijos unidos y a luchar, / a derrotar una cruel tiranía, / que a nuestro pueblo ha venido a masacrar. // Arnulfo Romero, hijo valiente, //de nuestra patria querida, El Salvador, //por defender los derechos humanos, // con heroísmo su vida entregó. // Humilde [inaudible 1:15], / que a todo el mundo le diste a conocer, / que El Salvador era muy castigado, / con ese yugo tirano y opresor. // Tu palabra, una luz en mi camino, / y a los humildes supiste despertar. / Alcen su voz que todos somos hermanos, / nuestros derechos debemos conquistar. // Esa mano, traidora y asesina, / que con su crimen, su voz hizo callar, / pero el odio no vence a la injusticia, / y nunca te vamos a olvidar. // Tu pueblo no quería la violencia, / pero obligados tuvimos que aceptar, / [inaudible 2:44] la conciencia, / y las palabras no quisieron escuchar. // Adelante compañeros combatientes, / la dictadura se empieza a derrumbar, / al no poder detener nuestra lucha, / ni con aviones, ni bombas de matar. // Adelante compañeros combatientes, / la dictadura se empieza a derrumbar, / al no poder detener nuestra lucha, / ni con aviones, ni bombas de matar. // América Central está en marcha, / con sus hijos unidos a luchar, / a derrotar una cruel tiranía, / que a nuestro pueblo ha venido a masacrar.",Recurso para uso educativo,Canción creada colectivamente y en dominio público. Por favor contactar al archivo si esta canción infringe derechos de autor.,video,https://youtu.be/eanK1OT5cq4,https://img.youtube.com/vi/eanK1OT5cq4/hqdefault.jpg,https://img.youtube.com/vi/eanK1OT5cq4/mqdefault.jpg,grainy image from historic film depicting fans heading to football game,
+demo_002,demo_001,Adelante compañeros combatientes,,,,Letra,,,,,,,lyrics,pdf,esp,,,,pdf,/objects/letras/demo_002.pdf,,,,
 demo_003,,Cloromiro,autor desconocido,desconocida,yes,"Canción en YouTube. Grabación de campo realizada en el campamento de refugiados de Mesa Grande (1982-1987), Honduras, en los años 80, durante la Guerra civil en El Salvador. Parece ser una contrafacta de la canción original «Clodomiro el Ñajo» (1977), una canción sobre la cultura popular de Nicaragua centrada en el personaje de Clodomiro y sus actividades cotidianas. Esta canción fue compuesta por Carlos Mejía, compositor del movimiento de la nueva canción en Nicaragua, que colaboró activamente con la Revolución Sandinista. Sin embargo, la contrafacta del archivo «Cloromiro» también se centra en el personaje de Cloromiro, pero en sus actividades relacionadas con la guerrilla.",Guerra Civil,"Mesa Grande, Honduras",14.47102,-88.8567,SAEL002,002_GHMG_cloromiro,song,audio/mp3,esp,,Uso educativo,Canción creada colectivamente y en dominio público. Por favor contactar al archivo si esta canción infringe derechos de autor.,video,https://youtu.be/wvpt9qp_8KM,https://img.youtube.com/vi/wvpt9qp_8KM/hqdefault.jpg,https://img.youtube.com/vi/wvpt9qp_8KM/mqdefault.jpg,grainy image from historic film depicting fans heading to football game,
 demo_004,,Compañero Chepe v1,autor desconocido,desconocida,yes,"Canción en YouTube. Canción en YouTube. Grabación de campo realizada en el campamento de refugiados de Mesa Grande (1982-1987), Honduras, en los años 80, durante la Guerra civil en El Salvador. 
 La letra de la canción trata sobre un guerrillero llamado Chepe. La letra explica sus diferentes actividades dentro de la guerrilla con el objetivo de ayudar al pueblo y a las comunidades rurales con sus luchas.",Guerra Civil,"Mesa Grande, Honduras",14.47102,-88.8567,SAEL003,003_GHMG_compañero_chepe _v1,song,audio/mp3,esp,,Uso educativo,Canción creada colectivamente y en dominio público. Por favor contactar al archivo si esta canción infringe derechos de autor.,video,https://youtu.be/cFH-FaUCIWk,https://img.youtube.com/vi/cFH-FaUCIWk/hqdefault.jpg,https://img.youtube.com/vi/cFH-FaUCIWk/mqdefault.jpg,grainy image from historic film depicting fans heading to football game,
