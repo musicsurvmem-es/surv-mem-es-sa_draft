@@ -8,9 +8,9 @@ location,Lugar de grabación,,,,contentLocation
 latitude,Latitud,,,,
 longitude,Longitud,,,,
 source,Identificación numérica de la obra,,,,
-identifier,Nombre del archivo,,,,
+identifier,Archivo digital de música,,,,
 type,Tipo,,,DCTERMS.type,
 format,Formato,,,,encodingFormat
 language,Idioma,,,DCTERMS.language,
 lyrics,Letra,,,,
-rightsstatement,,,,DCTERMS.rights,license
+derechos,Derechos de autor,,,,
