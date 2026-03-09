@@ -27,7 +27,7 @@ El archivo en línea de canciones de la guerra civil de Memoria Sobreviviente co
 Cancioneros
 El equipo trabaja con comunidades y músicas/os para crear cancioneros, que incluyen transcripciones de las letras de canciones de la guerra junto con información explicativa, imágenes o testimonios relevantes que hablan de la importancia de las canciones para comunidades repobladas específicas. Estos cancioneros están disponibles como libros electrónicos (con grabaciones de las canciones incorporadas) y pronto se distribuirán de forma impresa. Hasta ahora, hemos producido un cancionero con la comunidad de Las Vueltas y otro que documenta las canciones del músico y dirigente comunitario don Felipe Tobar.
 
-{% include feature/image.html objectid="demo_135" width="75" caption="Comité de música en Las Vueltas, El Salvador" %}
+{% include feature/image.html objectid="demo_136" width="75" caption="Comité de música en Las Vueltas, El Salvador" %}
 
 {% include feature/image.html objectid="demo_137" width="75" caption="Comité de música en Las Vueltas, El Salvador" %}
 
