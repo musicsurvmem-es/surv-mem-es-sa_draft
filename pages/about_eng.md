@@ -19,11 +19,12 @@ padding: 6em
 ---
 
 # Music and memory in El Salvador
+
+{% include feature/image.html objectid="demo_133" width="75" caption="Campamento de refugiados en Mesa Grande (1982-1987), Honduras" %}
+
 ## Digital Music Archive
 
 Our online archive of songs from the civil war will permanently preserve recent and historic recordings of songs that relate to the conflict. It is being designed with the help of community members to best serve the needs of Salvadorans. Its database will allow users to find songs on a range of topics and themes and will be ideal for educational purposes. Our archive’s website will also house other material related to music during the war, including some of the collected materials described below.
-
-{% include feature/image.html objectid="demo_133" width="75" caption="Campamento de refugiados en Mesa Grande (1982-1987), Honduras" %}
 
 ## Songbooks
 We work with communities and musicians to create songbooks, which include transcriptions of the lyrics of wartime songs alongside explanatory information, images, or relevant testimonies that speak to the songs’ importance for specific repopulated communities. These are available as e-books (with recordings of the songs built-in) and will soon be available as printed books. Thus far, we have produced one songbook with the community of Las Vueltas and one that documents the songs of musician-organizer, Don Felipe Tobar.
