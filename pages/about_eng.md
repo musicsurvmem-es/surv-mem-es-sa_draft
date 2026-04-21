@@ -23,8 +23,12 @@ padding: 6em
 
 Our online archive of songs from the civil war will permanently preserve recent and historic recordings of songs that relate to the conflict. It is being designed with the help of community members to best serve the needs of Salvadorans. Its database will allow users to find songs on a range of topics and themes and will be ideal for educational purposes. Our archive’s website will also house other material related to music during the war, including some of the collected materials described below.
 
+{% include feature/image.html objectid="demo_133" width="75" caption="Campamento de refugiados en Mesa Grande (1982-1987), Honduras" %}
+
 ## Songbooks
 We work with communities and musicians to create songbooks, which include transcriptions of the lyrics of wartime songs alongside explanatory information, images, or relevant testimonies that speak to the songs’ importance for specific repopulated communities. These are available as e-books (with recordings of the songs built-in) and will soon be available as printed books. Thus far, we have produced one songbook with the community of Las Vueltas and one that documents the songs of musician-organizer, Don Felipe Tobar.
+
+{% include feature/image.html objectid="demo_136" width="75" caption="Comité de música en Las Vueltas, El Salvador, 2024" %}
 
 ## Historical Memory Workshops and Testimonies
 In our historical memory workshops, the music team fosters a space for community members to share memories of wartime music-making together. We also record songs for the digital music archive at these events and take individual testimonies on these topics. We end our workshops with an evening gathering for the community, featuring a performance by a local group specializing in wartime folk songs, encouraging inter-generational education about wartime music.
