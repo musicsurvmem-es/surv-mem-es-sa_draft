@@ -20,13 +20,11 @@ padding: 6em
 
 # Música y memoria en El Salvador
 
-{% include feature/image.html objectid="demo_133" width="75" caption="Campamento de refugiados en Mesa Grande (1982-1987), Honduras" %}
+{% include feature/image.html objectid="demo_133" width="75" caption="Campamento de refugio en Mesa Grande (1982-1987), Honduras" %}
 
 ## Archivo de canciones
 
 El archivo en línea de canciones de la guerra civil de Memoria Sobreviviente conservará de forma permanente grabaciones recientes e históricas de canciones relacionadas con el conflicto. Se está diseñando con la ayuda de integrantes de la comunidad para servir mejor a las necesidades de las personas salvadoreñas. Su base de datos permitirá a la comunidad de usuarios encontrar canciones sobre diversos temas y será ideal para fines educativos. El sitio web del archivo también albergará otros materiales relacionados con la música durante la guerra, incluidos algunos de los materiales recopilados que se describen a continuación.
-
-[To read an English version of this page, click here] (https://github.com/musicsurvmem-es/surv-mem-es-sa_draft/blob/main/pages/about_eng.md)
 
 ## Cancioneros
 El equipo trabaja con comunidades y músicas/os para crear cancioneros, que incluyen transcripciones de las letras de canciones de la guerra junto con información explicativa, imágenes o testimonios relevantes que hablan de la importancia de las canciones para comunidades repobladas específicas. Estos cancioneros están disponibles como libros electrónicos (con grabaciones de las canciones incorporadas) y pronto se distribuirán de forma impresa. Hasta ahora, hemos producido un cancionero con la comunidad de Las Vueltas y otro que documenta las canciones del músico y dirigente comunitario don Felipe Tobar.
